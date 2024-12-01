@@ -26,8 +26,9 @@ This data was sourced from kaggle. It comprises of **75685 rows and 22 columns**
 
 ## Conclusion
 Based on the analysis key insights and recommendations were derived that will be used to assess the aircraft safety and management:
+
 -Aircraft safety trends: Aircraft such as Cessna have been involved in accidents this maybe due to preferability to that specific aicraft make as compared to others. 
- - If this is the case Maintainence Taskforce should be made in order to prevent and reduce accidents rates in the company.
+  - If this is the case Maintainence Taskforce should be made in order to prevent and reduce accidents rates in the company.
 
 -Engine type safety: Engine type such as 1.0 is also most commonly used. Further research has created an understanding that this types of engine are mostly located on the left and can get you from one point to the other efficiently. But the current shows that it is commonly involved in accidents.
 
